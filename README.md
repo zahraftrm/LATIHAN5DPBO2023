@@ -8,7 +8,7 @@ Terdapat kelas Mahasiswa dan juga
 
 ## DESAIN PROGRAM
 
-![image]("https://user-images.githubusercontent.com/100985868/227788002-2e8347bb-de9b-494e-9e0f-2b5f35f73ded.png" width=50% height=50%)
+![image width=50% height=50%](https://user-images.githubusercontent.com/100985868/227788002-2e8347bb-de9b-494e-9e0f-2b5f35f73ded.png)
 
 Terdapat kelas Mahasiswa dan juga kelas untuk Menu. Pada kelas Mahasiswa terdapat 4 atribut, yakni:
 
