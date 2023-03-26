@@ -28,5 +28,6 @@ Pada kelas Mahasiswa terdapat method set (untuk menetapkan nilai) dan juga metho
 8. Method btnDeleteActonPerformed()       : jika tombol Delete dipencet, maka kita memanggil method deleteData() apabila user setuju menghapus data
 9. Method btnCancelActionPerformed()      : jika tombol Cancel dipencet, maka value form menjadi kosong
 
-## CONTOH PROGRAM
-<img src="https://github.com/zahraftrm/LATIHAN4DPBO2023-/blob/main/CPP/Screenshot%20(1125).png" width=50% height=50%>
+## VIDEO PROGRAM
+
+https://user-images.githubusercontent.com/100985868/227790835-cf9d6806-3793-40f9-baaf-f4e0ebe13b8c.mp4
