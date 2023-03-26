@@ -4,7 +4,23 @@ Saya Zahra Fitria Maharani NIM 2102545 mengerjakan soal LATIHAN5 dalam mata kuli
 
 ## ALUR PROGRAM
 
-Terdapat kelas Mahasiswa dan juga
+Terdapat beberapa fitur yang dapat digunakan:
+
+1. Insert data
+- memasukkan value pada form dan memilih value pada comboBox, kemudian klik tombol Add
+- setelah memasukkan data, table akan terupdate dengan data yang baru, kemudian value pada form kosong dan comboBox kembali ke laki-laki
+2. Update data
+- klik list data mahasiswa pada table, kemudian ubah value form ataupun comboBox sesuai keinginan, kemudian klik tombol Update
+- setelah update data, table akan terupdate dengan data yang baru, kemudian value pada form kosong dan comboBox kembali ke laki-laki
+3. Delete data 
+- klik list data mahasiswa pada table, kemudian klik tombol Delete
+- terdapat opsi Yes or No saat menghapus data, ketika klik No, maka data tidak dihapus dan masih dalam keadaan memencet list data tersebut sehingga value pada form dan comboBox sesuai dengan data yang dipencet
+- ketika klik Yes, maka data terhapus, kemudian terupdate dengan data yang baru, kemudian value pada form kosong dan comboBox kembali ke laki-laki
+4. Cancel data
+- klik list data mahasiswa pada table, kemudian klik tombol Cancel
+- maka value pada form kosong dan comboBox kembali ke laki-laki
+- atau bisa juga ketika sudah mengisi semua data pada form dan comboBox, kemudian klik tombol Cancel
+- maka value pada form kosong dan comboBox kembali ke laki-laki
 
 ## DESAIN PROGRAM
 
