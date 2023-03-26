@@ -8,7 +8,7 @@ Terdapat kelas Mahasiswa dan juga
 
 ## DESAIN PROGRAM
 
-
+<img src="https://github.com/zahraftrm/LATIHAN5DPBO2023/blob/main/desain%20program.png" width=50% height=50%>
 
 Terdapat kelas Mahasiswa dan juga kelas untuk Menu. Pada kelas Mahasiswa terdapat 4 atribut, yakni:
 
